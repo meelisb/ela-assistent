@@ -116,24 +116,24 @@ const categoryColors: Record<string, {
   border: string;
 }> = {
   "ELA ametlikud dokumendid": {
-    accent: "#2563eb",
+    accent: "#93c5fd",
     badge: "#dbeafe",
     badgeText: "#1e40af",
-    headerBorder: "#93c5fd",
+    headerBorder: "#60a5fa",
     border: "#bfdbfe",
   },
   "Tartu Ülikooli materjalid": {
-    accent: "#16a34a",
+    accent: "#86efac",
     badge: "#dcfce7",
     badgeText: "#15803d",
-    headerBorder: "#86efac",
+    headerBorder: "#4ade80",
     border: "#bbf7d0",
   },
   "Lisaressurss": {
-    accent: "#b45309",
+    accent: "#fcd34d",
     badge: "#fef3c7",
     badgeText: "#92400e",
-    headerBorder: "#fcd34d",
+    headerBorder: "#fbbf24",
     border: "#fde68a",
   },
 };
