@@ -5,6 +5,7 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 import { Send, Loader2, User, Bot } from "lucide-react";
 import { supabase } from "@/integrations/supabase/client";
 import { SourcesSidebar } from "@/components/SourcesSidebar";
+import { SYSTEM_PROMPT } from "@/systemPrompt";
 import {
   SidebarProvider,
   SidebarTrigger,
