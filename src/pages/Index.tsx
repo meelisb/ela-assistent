@@ -19,10 +19,10 @@ interface Message {
 
 
 const STARTER_QUESTIONS = [
-  "Kuidas kirjutada sissejuhatust?",
-  "Kuidas viidata allikatele APA formaadis?",
-  "Kuidas struktureerida lõputööd?",
-  "Aita mind kokkuvõtte kirjutamisega",
+  "Kuidas viidata APA stiilis?",
+  "Mis on uurimisprobleem ja kuidas seda sõnastada?",
+  "Mis vahe on kokkuvõttel ja järeldustel?",
+  "Kuidas alustada teoreetilise ülevaate kirjutamist?",
 ];
 
 const Index = () => {
