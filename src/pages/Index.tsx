@@ -3,6 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Send, Loader2, User, Bot } from "lucide-react";
+import ReactMarkdown from "react-markdown";
 import { supabase } from "@/integrations/supabase/client";
 import { SourcesSidebar } from "@/components/SourcesSidebar";
 import { SYSTEM_PROMPT } from "@/systemPrompt";
