@@ -2,7 +2,11 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Project goals:
+* Give the students of Estonian Aviation Academy a supporing academic thesis writing assistant that helps them on demand;
+* Learn building LLM powered products.
+
+**URL**: https://lovable.dev/projects/481194f9-d61c-4604-905b-1570fbd9f0d3
 
 ## How can I edit this code?
 
@@ -10,7 +14,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Simply visit the [Lovable Project](https://lovable.dev/projects/481194f9-d61c-4604-905b-1570fbd9f0d3) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -62,7 +66,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Simply open [Lovable](https://lovable.dev/projects/481194f9-d61c-4604-905b-1570fbd9f0d3) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
